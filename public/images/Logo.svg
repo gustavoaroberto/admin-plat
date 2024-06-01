@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2)">
+<circle cx="100" cy="100" r="98" stroke="black" stroke-width="4"/>
+<circle cx="62" cy="74" r="11" stroke="black" stroke-width="4"/>
+<circle cx="100" cy="38" r="11" stroke="black" stroke-width="4"/>
+<circle cx="34" cy="116" r="6" fill="black" stroke="black" stroke-width="4"/>
+<circle cx="34" cy="89" r="6" fill="black" stroke="black" stroke-width="4"/>
+<circle cx="138" cy="74" r="11" stroke="black" stroke-width="4"/>
+<line x1="100" y1="50.9919" x2="101" y2="174.992" stroke="black" stroke-width="2"/>
+<line x1="120" y1="100" x2="156" y2="100" stroke="black" stroke-width="4"/>
+<line x1="120" y1="112" x2="156" y2="112" stroke="black" stroke-width="4"/>
+<path d="M72 139.997L72.4137 100" stroke="black" stroke-width="4"/>
+<line x1="85" y1="140" x2="85" y2="100" stroke="black" stroke-width="4"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="200" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
