@@ -1,6 +1,6 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1_2)">
-<circle cx="100" cy="100" r="98" stroke="black" stroke-width="4"/>
+<circle cx="100" cy="100" r="98" fill="#D9D9D9" stroke="black" stroke-width="4"/>
 <circle cx="62" cy="74" r="11" stroke="black" stroke-width="4"/>
 <circle cx="100" cy="38" r="11" stroke="black" stroke-width="4"/>
 <circle cx="34" cy="116" r="6" fill="black" stroke="black" stroke-width="4"/>

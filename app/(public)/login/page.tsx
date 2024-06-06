@@ -1,10 +1,20 @@
+"use client";
+
 import React from "react";
-import styles from "./styles.module.css";
+import styles from "./page.module.css";
+import { useRouter } from "next/navigation";
+import Logo from "@/app/components/Logo";
 
 export default function Login() {
+  const router = useRouter();
+
+  const handleSubmitLogin = () => {
+    router.push("/");
+  };
+
   return (
     <main className={styles.login}>
-      <div className={styles.logo}></div>
+      <Logo width="200px" height="200px" />
       <form className="box">
         <div className="field">
           <label className="label">Email</label>
@@ -24,7 +34,13 @@ export default function Login() {
           </div>
         </div>
 
-        <button className="button is-primary">Sign in</button>
+        <button
+          onClick={handleSubmitLogin}
+          type="button"
+          className="button is-primary"
+        >
+          Sign in
+        </button>
       </form>
     </main>
   );

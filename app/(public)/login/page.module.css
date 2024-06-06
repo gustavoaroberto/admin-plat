@@ -11,24 +11,11 @@
 
 .login>form {
     width: 400px;
-}
-
-.logo {
-    mask-image: url('/images/logo.svg');
-    background-color: white;
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 200px;
-    height: 200px;
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 @media (prefers-color-scheme: light) {
     .login {
         background-image: url('/images/background-light.png');
-    }
-
-    .logo {
-        background-color: black;
     }
 }
